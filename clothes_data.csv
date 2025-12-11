@@ -1,0 +1,18 @@
+id,filename,emotion,style,description,in_stock
+241211000001,1.jpg,happy,shorts,연베이지 반바지,TRUE
+241211000002,2.jpg,sad,pants,그레이 트레이닝 팬츠,TRUE
+241211000003,3.jpg,angry,outer,가죽 자켓,TRUE
+241211000004,4.jpg,angry,pants,검정 데님 팬츠,TRUE
+241211000005,5.jpg,happy,top,회색 맨투맨 (POLO),TRUE
+241211000006,6.jpg,default,shirt,기본 흰 셔츠,TRUE
+241211000007,7.jpg,happy,shirt,하늘색 셔츠,TRUE
+241211000008,8.jpg,sad,shirt,검정 셔츠,TRUE
+241211000009,9.jpg,sad,shirt,네이비 셔츠,TRUE
+241211000010,10.jpg,default,shirt,크림색 셔츠,TRUE
+241211000011,11.jpg,sad,top,와인색 맨투맨,TRUE
+241211000012,12.jpg,happy,top,연두색 크루넥,TRUE
+241211000013,13.jpg,angry,outer,블랙 패딩,TRUE
+241211000014,14.jpg,default,knit,브라운 꽈배기 니트,TRUE
+241211000015,15.jpg,angry,pants,블랙 조거 팬츠,TRUE
+241211000017,17.jpg,happy,pants,연청 데님 팬츠,TRUE
+241211000018,18.jpg,default,pants,카키 면바지,TRUE
